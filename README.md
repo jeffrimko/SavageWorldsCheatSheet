@@ -7,3 +7,5 @@ The sheet was created using [LibreOffice Calc](https://www.libreoffice.org/disco
 Below is a preview of what both sides of the cheat sheet look like. To print, please [download the PDF from the releases page](https://github.com/jeffrimko/SavageWorldsCheatSheet/releases) and note that four copies of the sheet will be printed to a single two-sided page.
 
 ![Preview](./preview-both_sides.png)
+
+Release notes are maintained in the project [changelog](https://github.com/jeffrimko/SavageWorldsCheatSheet/blob/master/CHANGELOG.md).
